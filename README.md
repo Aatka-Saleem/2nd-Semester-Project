@@ -1,4 +1,4 @@
-ONLINE SPORTS WORLD GUI Application
+ONLINE SPORTS WORLD GUI Application:
 
 Project Overview
 
