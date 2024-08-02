@@ -1,13 +1,21 @@
 ONLINE SPORTS WORLD GUI Application
+
 Project Overview
+
 This project is a GUI application for user account management and shopping using Python's Tkinter library. It includes functionalities for signing up, signing in, and verifying user credentials and then allow shopping. The project is structured with the following main components:
 
 ManageUserAccount Class: Handles user data storage, retrieval, and validation.
+
 Interface Class: Manages the GUI elements for signing up and signing in.
+
 Errors Class: Contains static methods for validating user input.
+
 ProductMenu Class: Imported from product_menu.py, used to display product-related information.
+
 UpdateCart Class: Manages the cart operations, including adding and removing items and saving the cart to a file.
+
 ViewCart Class: Handles displaying the cart items in a tabular format and provides options for checkout and continuing shopping.
+
 Checkout Class: Manages the checkout process, including reading cart items, displaying them, and handling the purchase confirmation.
 
 Class Descriptions
