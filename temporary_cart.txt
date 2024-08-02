@@ -1,0 +1,4 @@
+Helmet : 6 items : 12000
+Shoes : 4 items : 16000
+Jersey : 4 items : 7200
+Ball : 2 items : 1200
